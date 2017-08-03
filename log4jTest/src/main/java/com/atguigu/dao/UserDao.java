@@ -20,5 +20,5 @@ public class UserDao {
 			logger.error(e.getMessage(), e.getCause());
 		}
 	}
-
+		System.out.println("update02");
 }
